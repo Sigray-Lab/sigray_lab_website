@@ -21,12 +21,10 @@ organizations:
   - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
 
 website:
-  - 'https://ki.se/en/people/pontus-plaven-sigray'
+  - https://ki.se/en/people/pontus-plaven-sigray
 
 interests:
   - bla
-  - bla bla
-  - bla bla bla
 
 social:
   - icon: twitter
