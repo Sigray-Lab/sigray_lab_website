@@ -40,11 +40,13 @@ sections:
   - block: markdown
     id: collaborators
     content:
-      title: Collaborators
+      title: Key Collaborators
       text: |
-        - a <br>
-        - b <br>
-        
+        - [Pete A. Williams](https://ki.se/en/people/pete-williams ), research group leader at KI/St Eriks Eye Hospital. <br>
+        - [Mikael Palner](https://portal.findresearcher.sdu.dk/da/persons/mpalner), small-animal PET imaging research group leader at the University of Southern Denmark. <br>
+        - [Todd Ogden](https://www.publichealth.columbia.edu/profile/r-todd-ogden-phd ), vice chair of Columbia University Department of Biostatistics, NYC, USA. <br>
+
+Link: 
     
   - block: collection
     id: publications
