@@ -9,15 +9,14 @@ sections:
     id: about 
     content:
       title: |
-        Imaging Biomarkers of Biological Aging
-        Research Group
+        Plavén-Sigray Research Group: 
+        Evaluating geroprotective interventions using in vivo medical imaging 
       image:
         filename: 
       text: |
         <br>
-        
-        At the **Imaging Biomarkers of Biological Aging Group** we aim to develop and validate biomarkers of biological aging using neuroimaging, and machine learning. The overarging goal is to develop frameworks for clinical trials assessing the effect of putative geroprotective compounds.  this includes the development of protocols for imaging studies and the development and validation of potential biomarkers.
-  
+       This research group aims to develop biomarkers and new treatments for neurodegenerative diseases by applying neuroimaging techniques, such as MRI and PET. We are currently running the [ERAP](https://classic.clinicaltrials.gov/ct2/show/NCT06022068) phase IIa trial, were we evaluate the effect of the drug sirolimus/rapamycin on human neurodegeneration and aging. Our work also involves creating and assessing biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.
+      
   - block: people
     id: people
     content:
