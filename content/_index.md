@@ -9,13 +9,13 @@ sections:
     id: about 
     content:
       title: |
-       Plaven-Sigray Research Group <br>
-       Evaluating geroprotective interventions using *in vivo* medical imaging 
+        Plaven-Sigray Research Group <br>
+        Evaluating geroprotective interventions using *in vivo* medical imaging 
       image:
         filename: 
       text: |
         <br>
-       This research group aims to develop biomarkers and new treatments for neurodegenerative diseases by applying neuroimaging techniques, such as MRI and PET. We are currently running the [ERAP](https://classic.clinicaltrials.gov/ct2/show/NCT06022068) phase IIa trial, where we evaluate the effect of the drug sirolimus/rapamycin on human neurodegeneration and aging. Our work also involves creating and assessing biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.
+        This research group aims to develop biomarkers and new treatments for neurodegenerative diseases by applying neuroimaging techniques, such as MRI and PET. We are currently running the [ERAP](https://classic.clinicaltrials.gov/ct2/show/NCT06022068) phase IIa trial, where we evaluate the effect of the drug sirolimus/rapamycin on human neurodegeneration and aging. Our work also involves creating and assessing biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.
       
   - block: people
     id: people
