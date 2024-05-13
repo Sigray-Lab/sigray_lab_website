@@ -9,7 +9,7 @@ sections:
     id: about 
     content:
       title: |
-        Plavén-Sigray Research Group: 
+        Plavén-Sigray Research Group <br>
         Evaluating geroprotective interventions using *in vivo* medical imaging 
       image:
         filename: 
