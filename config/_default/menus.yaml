@@ -10,9 +10,9 @@ main:
   - name: People
     url: "/#people"
     weight: 2
-  - name: Colaborators
+  - name: Collaborators
     weight: 3
-    url: "/#colaborators"
+    url: "/#collaborators"
   - name: Publications
     url: "/#publications"
     weight: 4
