@@ -37,6 +37,15 @@ sections:
       show_role: true
       show_social: true
 
+  - block: markdown
+    id: collaborators
+    content:
+      title: Collaborators
+      text: |
+        - a <br>
+        - b <br>
+        
+    
   - block: collection
     id: publications
     view: citation
