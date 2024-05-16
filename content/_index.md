@@ -48,7 +48,7 @@ sections:
     id: publications
     view: citation
     content:
-      title: Publications 
+      title: Selected publications 
       subtitle: ''
       text:
       filters:
