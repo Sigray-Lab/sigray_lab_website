@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         We aim to develop biomarkers and new treatments for neurodegenerative diseases by applying medical imaging techniques, such as MRI, PET and CT. Currently, we are running an academically sponsored phase IIa trial in early Alzheimer's disease, where we evaluate the effect of the drug sirolimus/rapamycin on human neurodegeneration and aging.
-        
+        <br>
         Our work also involves developing and assessing biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.
 
   - block: people
