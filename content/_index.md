@@ -46,6 +46,14 @@ sections:
 #        - [Miia Kivipelto](https://ki.se/en/people/miia-kivipelto), research group leader and head of Karolinska Hospital Theme Aging R&D. <br>
 #        - [Pete A. Williams](https://ki.se/en/people/pete-williams), research group leader at KI/St Eriks Eye Hospital. <br>
 
+  - block: markdown
+    id: ERAP
+    content:
+      title: ERAP
+      text: |
+        <br>
+        "Evaluating Rapamycin in Alzheimer's disease using Positron emission tomography" (or ERAP for short) is a clinical phase IIa pilot trial. ...     
+
   - block: collection
     id: publications
     view: citation
