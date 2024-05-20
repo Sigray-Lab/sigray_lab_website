@@ -10,14 +10,15 @@ main:
   - name: People
     url: "/#people"
     weight: 2
-#  - name: Collaborators
-#    weight: 3
-#    url: "/#collaborators"
+  - name: erap
+    url: "/#erap"
+    weight: 3
   - name: Publications
     url: "/#publications"
     weight: 4
-  - name: ERAP
-    url: "/#erap"
-    weight: 3
+#  - name: Collaborators
+#    weight: 3
+#    url: "/#collaborators"
+
 
 

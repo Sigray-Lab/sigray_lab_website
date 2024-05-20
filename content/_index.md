@@ -47,7 +47,7 @@ sections:
 #        - [Pete A. Williams](https://ki.se/en/people/pete-williams), research group leader at KI/St Eriks Eye Hospital. <br>
 
   - block: markdown
-    id: ERAP
+    id: erap
     content:
       title: ERAP
       text: |
