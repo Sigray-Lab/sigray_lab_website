@@ -14,8 +14,10 @@ sections:
         filename: 
       text: |
         <br>
-        This research group aims to develop biomarkers and new treatments for neurodegenerative diseases by applying neuroimaging techniques, such as MRI and PET. We are currently running the [ERAP](https://classic.clinicaltrials.gov/ct2/show/NCT06022068) phase IIa trial, where we evaluate the effect of the drug sirolimus/rapamycin on human neurodegeneration and aging. Our work also involves creating and assessing biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.
-      
+        We aim to develop biomarkers and new treatments for neurodegenerative diseases by applying medical imaging techniques, such as MRI, PET and CT. Currently, we are running an academically sponsored phase IIa trial in early Alzheimer's disease, where we evaluate the effect of the drug sirolimus/rapamycin on human neurodegeneration and aging.
+        
+        Our work also involves developing and assessing biomarkers of aging that can be used as endpoints in clinical trials of geroprotective compounds. To this end, we apply machine learning models to large batches of multi-modal imaging data to estimate the biological age of different organ-systems in the human body.
+
   - block: people
     id: people
     content:
@@ -25,7 +27,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Researchers
-          - Research Support
+          - Research Support Staff
           - Colaborators
           - Alumni
       sort_by: Params.position
@@ -35,15 +37,16 @@ sections:
       show_role: true
       show_social: true
 
-  - block: markdown
-    id: collaborators
-    content:
-      title: Key Collaborators
-      text: |
-        - [Pete A. Williams](https://ki.se/en/people/pete-williams), research group leader at KI/St Eriks Eye Hospital. <br>
-        - [Mikael Palner](https://portal.findresearcher.sdu.dk/da/persons/mpalner), small-animal PET imaging research group leader at the University of Southern Denmark. <br>
-        - [Todd Ogden](https://www.publichealth.columbia.edu/profile/r-todd-ogden-phd), vice chair of Columbia University Department of Biostatistics, NYC, USA. <br> 
-    
+#  - block: markdown
+#    id: collaborators
+#    content:
+#      title: Key Collaborators
+#      text: |
+#        - [Mikael Palner](https://portal.findresearcher.sdu.dk/da/persons/mpalner), small-animal PET imaging research group leader at the University of Southern Denmark. <br>
+#        - [Todd Ogden](https://www.publichealth.columbia.edu/profile/r-todd-ogden-phd), vice chair of Columbia University #Department of Biostatistics, NYC, USA. <br> 
+#        - [Miia Kivipelto](https://ki.se/en/people/miia-kivipelto), research group leader and head of Karolinska Hospital Theme Aging R&D. <br>
+#        - [Pete A. Williams](https://ki.se/en/people/pete-williams), research group leader at KI/St Eriks Eye Hospital. <br>
+
   - block: collection
     id: publications
     view: citation
