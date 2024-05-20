@@ -57,11 +57,8 @@ sections:
         The trial is a collaboration between Karolinska Institutet and the Karolinska Hospital Memory Clinic in Solna, Sweden. It was initiated on September 1, 2023, and patients with early-stage Alzheimer's disease or mild cognitive impairment are currently being enrolled by invitation. Participants are treated for six months with a weekly dose of 7 mg sirolimus. Before and at the end of the treatment, all participants undergo a series of examinations where we quantify the change in cerebral glucose metabolism, cerebral blood flow, disease-markers in the CSF and cognition. <br>
         <br>
         In addition, all participants are examined with a set of medical imaging techniques to quatify change in heart function, bone and muscle density, retinal nerve layer thickness, as well as atherosclerotic- and periodontal inflammation. The purpose of these examinations is to assess if rapamycin affects age-related pathological processes in organs and tissues also outside the central nervous system.  <br>  
- <br>  
-clinicaltrials.gov ID: NCT06022068 <br>  
- <br>  
-
-            
+        <br>  
+        clinicaltrials.gov ID: NCT06022068 <br>    
 
   - block: collection
     id: publications
