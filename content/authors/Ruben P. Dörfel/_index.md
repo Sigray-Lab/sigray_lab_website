@@ -25,7 +25,6 @@ website:
   - https://rdoerfel.github.io/
 
 interests:
-  - Neuroscience
   - Machine learning
   - Neuroimage analysis
 

@@ -12,7 +12,12 @@ superuser: false
 # position
 position: 2
 
+interests:
+  - Machine learning
+  - Neuroimage analysis
+
 # Role/position
+role: Data-analysis, Master-student
 
 # Organizations/Affiliations
 organizations:
