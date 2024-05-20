@@ -17,12 +17,13 @@ role: PostDoc
 
 # Organizations/Affiliations
 organizations:
+  - name: Theme Aging, Karolinska University Hospital
   - name: Center for Psychiatry Research, Karolinska Institutet
 
 interests:
-  - bla
-  - bla bla
-  - bla bla bla
+  - Clincial trials
+  - GCP-compliance
+  - Patient recruitment 
 
 website:
   - 'https://ki.se/en/people/jonas-svensson'
