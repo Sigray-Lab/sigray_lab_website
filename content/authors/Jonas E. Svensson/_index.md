@@ -41,5 +41,5 @@ email: ''
 highlight_name: true
 
 user_groups:
-  - Researchers
+  - Researchers and staff
 ---
