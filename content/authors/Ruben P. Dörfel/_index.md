@@ -26,8 +26,8 @@ website:
 
 interests:
   - Neuroscience
-  - Machine Learning
-  - Neuroimage Analysis
+  - Machine learning
+  - Neuroimage analysis
 
 social:
   - icon: twitter

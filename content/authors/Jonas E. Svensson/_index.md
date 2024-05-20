@@ -21,7 +21,7 @@ organizations:
   - name: Department of Clinical Neuroscience, Karolinska Institutet
 
 interests:
-  - Clincial trials
+  - Clinical trials
   - GCP-compliance
   - Patient recruitment 
 
