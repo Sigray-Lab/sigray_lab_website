@@ -13,11 +13,11 @@ superuser: false
 position: 2
 
 # Role/position
-role: Phd Student
+role: Data-analysis, PhD-student
 
 # Organizations/Affiliations
 organizations:
-  - name: Center for Psychiatry Research, Karolinska Institutet
+  - name: Department of Clinical Neuroscience, Karolinska Institutet
   - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
   - name: Department of Computer Science, University of Copenhagen
 

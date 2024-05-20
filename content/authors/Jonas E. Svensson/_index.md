@@ -13,12 +13,12 @@ superuser: false
 position: 2
 
 # Role/position
-role: PostDoc
+role: Study physician, Post-doc
 
 # Organizations/Affiliations
 organizations:
   - name: Theme Aging, Karolinska University Hospital
-  - name: Center for Psychiatry Research, Karolinska Institutet
+  - name: Department of Clinical Neuroscience, Karolinska Institutet
 
 interests:
   - Clincial trials

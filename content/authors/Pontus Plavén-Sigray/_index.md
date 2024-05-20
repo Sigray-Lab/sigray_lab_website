@@ -13,18 +13,20 @@ superuser: true
 position: 1
 
 # Role/position
-role: PI
+role: Study director, group leader 
 
 # Organizations/Affiliations
 organizations:
-  - name: Center for Psychiatry Research, Karolinska Institutet
+  - name: Department of Clinical Neuroscience, Karolinska Institutet
   - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
 
 website:
   - https://ki.se/en/people/pontus-plaven-sigray
 
 interests:
-  - bla
+  - Longevity and geroprotection 
+  - Drug repurposing
+  - Neurodegenerative disease 
 
 social:
   - icon: twitter
@@ -32,7 +34,7 @@ social:
     link: https://twitter.com/ppsigray
   - icon: google-scholar
     icon_pack: ai
-    link: https://www.bing.com/ck/a?!&&p=40bc6d16f9f7182fJmltdHM9MTcxNDA4OTYwMCZpZ3VpZD0xOTU4ODM3Ny04MTljLTZlMDUtMjk0Mi05NzM3ODBlMDZmMTImaW5zaWQ9NTE5Mw&ptn=3&ver=2&hsh=3&fclid=19588377-819c-6e05-2942-973780e06f12&psq=Pontus+Sigray+scholar&u=a1aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20udHcvY2l0YXRpb25zP3VzZXI9RVNpMG10VUFBQUFKJmhsPWVu&ntb=1
+    link: https://scholar.google.com/citations?user=ESi0mtUAAAAJ&hl=sv 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
