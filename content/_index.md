@@ -11,7 +11,7 @@ sections:
       title: |
         Evaluating geroprotective interventions using *in vivo* medical imaging 
       image:
-        filename: 
+        filename: brain.png
       text: |
         <br>
         We aim to develop biomarkers and new treatments for neurodegenerative diseases. We do this by applying medical imaging techniques, such as MRI, PET and CT, to pre-clinical models of neurodegeneration, as well as human patients. Currently, we are running an academically sponsored phase IIa trial in early Alzheimer's disease, where we assess the effect of the drug sirolimus (a.k.a. rapamycin) on neurodegeneration, brain metabolism and aging processes.
