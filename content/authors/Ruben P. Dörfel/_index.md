@@ -32,9 +32,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RPDoerfel
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/rdoerfel.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=8D0T3WoAAAAJ&hl=de
+  - icon: globe
+    icon_pack: fas
+    link: https://rdoerfel.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
