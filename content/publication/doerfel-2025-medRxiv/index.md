@@ -5,7 +5,7 @@ authors:
 - Ruben P. Dörfel
 - Brice Ozenne
 - Melanie Ganz
-- Jonas Svensson
+- Jonas E. Svensson
 - Pontus Plavén-Sigray
 date: '2025-01-01'
 publishDate: '2025-03-20T09:54:02.333441Z'
