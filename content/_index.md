@@ -68,7 +68,7 @@ sections:
       text:
       filters:
         tags: publication
-      sort_by: 'Date'
+      sort_by: date
       sort_ascending: false
       
   
