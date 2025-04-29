@@ -1,6 +1,5 @@
 ---
-title: 'Prediction of brain age using structural magnetic resonance imaging: A comparison
-  of clinical validity of publicly available software packages'
+title: 'Prediction of brain age using structural magnetic resonance imaging: A comparison of clinical validity of publicly available software packages'
 authors:
 - Ruben P. Dörfel
 - Brice Ozenne
@@ -13,7 +12,7 @@ publication_types:
 - article-journal
 publication: '*medRxiv*'
 doi: 10.1101/2025.03.13.25323902
-abstract: 'Predicting brain age from structural magnetic resonance images is commonly
+abstract: "Predicting brain age from structural magnetic resonance images is commonly
   used as a biomarker of biological aging and brain health. Ideally, as a clinically
   valid biomarker, brain age should indicate the current state of health and also
   be predictive of future disease onset and detrimental changes in brain biology.
@@ -21,8 +20,10 @@ abstract: 'Predicting brain age from structural magnetic resonance images is com
   diagnostic and prognostic abilities, of six publicly available brain age prediction
   packages using data from the Alzheimertextquoterights Disease Neuroimaging Initiative
   (ADNI). Baseline brain age significantly differed between groups consisting of individuals
-  with normal cognitive function, mild cognitive impairment, and Alzheimertextquoterights
+  with normal cognitive function, mild cognitive impairment, and Alzheimer's
   Disease for all packages, but with comparable performance to gray matter volume.
+  Baseline brain age significantly differed between groups consisting of individuals
+  with normal cognitive function, mild cognitive impairment, and Alzheimer's Disease for all packages, but with comparable performance to gray matter volume.
   Further, estimates were not centered around zero for cognitively normal subjects
   and showed considerable variation between packages. Finally, brain age did not show
   strong correlation with disease onset, memory decline, nor gray matter atrophy within
@@ -30,7 +31,7 @@ abstract: 'Predicting brain age from structural magnetic resonance images is com
   bias and variability in cross-sectional predictions, combined with the weak associations
   between brain age and longitudinal changes in memory performance or grey matter
   volume, suggested limited validity of current brain age estimates as a biomarker
-  for biological aging.
+  for biological aging."
 links:
 - name: URL
   url: https://www.medrxiv.org/content/early/2025/03/14/2025.03.13.25323902
