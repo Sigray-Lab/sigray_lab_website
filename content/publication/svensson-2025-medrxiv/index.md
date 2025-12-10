@@ -2,8 +2,8 @@
 title: 'Evaluation of rapamycin as a neuroprotective treatment in Alzheimertextquoterights
   disease: a six-month single-arm open-label clinical pilot trial'
 authors:
-- Jonas E Svensson
-- Ruben Paul Dörfel
+- Jonas Svensson
+- Ruben P. Dörfel
 - Martin Schain
 - Martin Bolin
 - Simona Sacuiu
