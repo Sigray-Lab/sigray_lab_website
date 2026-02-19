@@ -26,7 +26,6 @@ sections:
       user_groups:
           - Group leader
           - Researchers and staff
-          - Colaborators 
           - Alumni
       sort_by: Params.position
       sort_ascending: true
