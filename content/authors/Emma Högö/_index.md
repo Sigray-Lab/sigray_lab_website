@@ -13,7 +13,7 @@ superuser: false
 position: 2
 
 # Role/position
-role: Data collection, Research nurse
+role: Research nurse
 
 # Organizations/Affiliations
 organizations:

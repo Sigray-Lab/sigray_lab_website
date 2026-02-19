@@ -13,11 +13,14 @@ superuser: false
 position: 2
 
 # Role/position
-role: Pre-clinical experiments, Research assistant
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
   - name: Department of Clinical Neuroscience, Karolinska Institutet
+
+interests:
+  - Pre-clinical experiments
 
 highlight_name: true
 
