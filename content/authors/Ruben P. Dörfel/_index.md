@@ -13,7 +13,7 @@ superuser: false
 position: 2
 
 # Role/position
-role: Data-analysis, PhD-student
+role: Data-analyst, PhD-student
 
 # Organizations/Affiliations
 organizations:

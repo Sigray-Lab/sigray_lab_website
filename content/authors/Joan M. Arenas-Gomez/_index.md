@@ -17,7 +17,7 @@ interests:
   - Neuroimage analysis
 
 # Role/position
-role: Data-analysis, Research assistant
+role: Data-analyst, Research assistant
 
 # Organizations/Affiliations
 organizations:
