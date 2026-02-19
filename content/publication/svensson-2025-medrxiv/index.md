@@ -70,6 +70,7 @@ abstract: 'Background: Rapamycin has demonstrated neuroprotective effects in pre
   such as any relevant EQUATOR Network research reporting checklist(s) and other pertinent
   material, if applicable.YesAll data produced in the present study are available
   upon reasonable request to the authors'
+tags: publication
 links:
 - name: URL
   url: https://www.medrxiv.org/content/early/2025/12/09/2025.12.08.25340853
