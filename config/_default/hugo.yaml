@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: The ERAP Clinical Study Group # Website name
-baseURL: 'https://sigray-lab.github.io/sigray_lab_website/' # Website URL
+baseURL: 'https://sigraylab.com/' # Website URL
 
 ############################
 ## LANGUAGE
